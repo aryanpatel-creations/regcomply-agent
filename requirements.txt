@@ -1,0 +1,17 @@
+# Core (all free, open source)
+pandas>=2.2
+numpy>=2.0
+pypdf>=5.0
+requests>=2.32
+pydantic>=2.8
+python-dotenv>=1.0
+mcp>=2.0                      # official MCP SDK v2 (FastMCP is now MCPServer)
+langgraph>=1.0
+langgraph-checkpoint-sqlite>=2.0
+fastapi>=0.115
+uvicorn>=0.30
+pytest>=8.0
+# Optional: names and places in PII masking (B1)
+# presidio-analyzer
+# presidio-anonymizer
+# then: python -m spacy download en_core_web_sm

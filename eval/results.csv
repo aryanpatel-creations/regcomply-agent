@@ -1,0 +1,12 @@
+run,retriever,k,questions,hit@5,recall@5,mrr,correct_refusal,citations_valid,hallucination_rate,retrieval_ms,answer_ms,tokens_per_q,cost_if_paid_usd
+dev_bm25_section300,bm25,5,35,0.893,0.893,0.702,,,,0.286,,,0.0
+dev_dense_section300,dense,5,35,0.857,0.857,0.662,,,,2109.629,,,0.0
+dev_hybrid_section300,hybrid,5,35,0.893,0.893,0.708,,,,2111.514,,,0.0
+section300_bm25,bm25,5,70,0.804,0.786,0.662,,,,0.514,,,0.0
+section300_dense,dense,5,70,0.786,0.768,0.585,,,,2104.414,,,0.0
+section300_hybrid,hybrid,5,70,0.804,0.795,0.647,,,,2094.314,,,0.0
+section300_hybrid_k3,hybrid,3,70,0.75,0.714,0.634,,,,2092.271,,,0.0
+fixed300_bm25,bm25,5,70,0.679,0.661,0.535,,,,0.414,,,0.0
+section150_bm25,bm25,5,70,0.786,0.777,0.652,,,,1.257,,,0.0
+section300_hybrid_full,hybrid,5,70,0.804,0.795,0.647,0.8,0.929,0.34,2130.257,32978.929,1709.357,0.00393
+test30_hybrid_full,hybrid,5,30,0.875,0.833,0.753,0.9,0.933,0.391,2140.633,32094.8,1555.933,0.00372

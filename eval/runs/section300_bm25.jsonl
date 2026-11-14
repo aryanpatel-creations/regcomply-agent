@@ -1,0 +1,70 @@
+{"id": "q001", "in_scope": true, "retrieval_ms": 0, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q002", "in_scope": true, "retrieval_ms": 0, "hit": 1, "recall": 1.0, "rr": 0.5}
+{"id": "q003", "in_scope": true, "retrieval_ms": 1, "hit": 1, "recall": 1.0, "rr": 0.5}
+{"id": "q004", "in_scope": true, "retrieval_ms": 1, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q005", "in_scope": true, "retrieval_ms": 1, "hit": 1, "recall": 1.0, "rr": 0.5}
+{"id": "q006", "in_scope": true, "retrieval_ms": 1, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q007", "in_scope": true, "retrieval_ms": 2, "hit": 1, "recall": 1.0, "rr": 0.3333333333333333}
+{"id": "q011", "in_scope": true, "retrieval_ms": 1, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q012", "in_scope": true, "retrieval_ms": 1, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q013", "in_scope": true, "retrieval_ms": 1, "hit": 1, "recall": 1.0, "rr": 0.5}
+{"id": "q014", "in_scope": true, "retrieval_ms": 2, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q015", "in_scope": true, "retrieval_ms": 1, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q016", "in_scope": true, "retrieval_ms": 0, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q017", "in_scope": true, "retrieval_ms": 0, "hit": 0, "recall": 0.0, "rr": 0.0}
+{"id": "q021", "in_scope": true, "retrieval_ms": 0, "hit": 1, "recall": 1.0, "rr": 0.5}
+{"id": "q022", "in_scope": true, "retrieval_ms": 0, "hit": 0, "recall": 0.0, "rr": 0.0}
+{"id": "q023", "in_scope": true, "retrieval_ms": 0, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q024", "in_scope": true, "retrieval_ms": 1, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q025", "in_scope": true, "retrieval_ms": 0, "hit": 0, "recall": 0.0, "rr": 0.0}
+{"id": "q026", "in_scope": true, "retrieval_ms": 1, "hit": 0, "recall": 0.0, "rr": 0.0}
+{"id": "q027", "in_scope": true, "retrieval_ms": 1, "hit": 1, "recall": 1.0, "rr": 0.5}
+{"id": "q031", "in_scope": true, "retrieval_ms": 0, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q032", "in_scope": true, "retrieval_ms": 0, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q033", "in_scope": true, "retrieval_ms": 0, "hit": 0, "recall": 0.0, "rr": 0.0}
+{"id": "q034", "in_scope": true, "retrieval_ms": 0, "hit": 0, "recall": 0.0, "rr": 0.0}
+{"id": "q035", "in_scope": true, "retrieval_ms": 1, "hit": 0, "recall": 0.0, "rr": 0.0}
+{"id": "q036", "in_scope": true, "retrieval_ms": 0, "hit": 1, "recall": 1.0, "rr": 0.3333333333333333}
+{"id": "q037", "in_scope": true, "retrieval_ms": 1, "hit": 1, "recall": 1.0, "rr": 0.5}
+{"id": "q041", "in_scope": false, "retrieval_ms": 0}
+{"id": "q042", "in_scope": false, "retrieval_ms": 0}
+{"id": "q043", "in_scope": false, "retrieval_ms": 0}
+{"id": "q044", "in_scope": false, "retrieval_ms": 0}
+{"id": "q045", "in_scope": false, "retrieval_ms": 0}
+{"id": "q046", "in_scope": false, "retrieval_ms": 0}
+{"id": "q047", "in_scope": false, "retrieval_ms": 1}
+{"id": "q051", "in_scope": true, "retrieval_ms": 0, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q052", "in_scope": true, "retrieval_ms": 1, "hit": 0, "recall": 0.0, "rr": 0.0}
+{"id": "q053", "in_scope": true, "retrieval_ms": 0, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q054", "in_scope": true, "retrieval_ms": 0, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q055", "in_scope": true, "retrieval_ms": 0, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q056", "in_scope": true, "retrieval_ms": 0, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q057", "in_scope": true, "retrieval_ms": 0, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q061", "in_scope": true, "retrieval_ms": 0, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q062", "in_scope": true, "retrieval_ms": 0, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q063", "in_scope": true, "retrieval_ms": 1, "hit": 0, "recall": 0.0, "rr": 0.0}
+{"id": "q064", "in_scope": true, "retrieval_ms": 1, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q065", "in_scope": true, "retrieval_ms": 1, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q066", "in_scope": true, "retrieval_ms": 1, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q067", "in_scope": true, "retrieval_ms": 0, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q071", "in_scope": true, "retrieval_ms": 1, "hit": 1, "recall": 1.0, "rr": 0.3333333333333333}
+{"id": "q072", "in_scope": true, "retrieval_ms": 0, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q073", "in_scope": true, "retrieval_ms": 1, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q074", "in_scope": true, "retrieval_ms": 0, "hit": 0, "recall": 0.0, "rr": 0.0}
+{"id": "q075", "in_scope": true, "retrieval_ms": 1, "hit": 1, "recall": 1.0, "rr": 0.5}
+{"id": "q076", "in_scope": true, "retrieval_ms": 1, "hit": 1, "recall": 1.0, "rr": 0.25}
+{"id": "q077", "in_scope": true, "retrieval_ms": 1, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q081", "in_scope": true, "retrieval_ms": 1, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q082", "in_scope": true, "retrieval_ms": 1, "hit": 0, "recall": 0.0, "rr": 0.0}
+{"id": "q083", "in_scope": true, "retrieval_ms": 0, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q084", "in_scope": true, "retrieval_ms": 1, "hit": 1, "recall": 1.0, "rr": 0.5}
+{"id": "q085", "in_scope": true, "retrieval_ms": 1, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q086", "in_scope": true, "retrieval_ms": 1, "hit": 1, "recall": 0.5, "rr": 0.3333333333333333}
+{"id": "q087", "in_scope": true, "retrieval_ms": 1, "hit": 1, "recall": 0.5, "rr": 1.0}
+{"id": "q091", "in_scope": false, "retrieval_ms": 0}
+{"id": "q092", "in_scope": false, "retrieval_ms": 0}
+{"id": "q093", "in_scope": false, "retrieval_ms": 0}
+{"id": "q094", "in_scope": false, "retrieval_ms": 0}
+{"id": "q095", "in_scope": false, "retrieval_ms": 1}
+{"id": "q096", "in_scope": false, "retrieval_ms": 1}
+{"id": "q097", "in_scope": false, "retrieval_ms": 0}

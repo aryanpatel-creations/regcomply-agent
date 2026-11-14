@@ -1,0 +1,17 @@
+# Runs the MCP tool server and the API. Ollama runs on your machine (faster, uses your GPU if any).
+services:
+  mcp:
+    build: .
+    command: python b3_mcp_server.py
+    env_file: .env
+    volumes: ["./data:/app/data"]
+  api:
+    build: .
+    env_file: .env
+    environment:
+      OLLAMA_URL: http://host.docker.internal:11434
+      MCP_URL: http://mcp:8001/mcp
+    extra_hosts: ["host.docker.internal:host-gateway"]
+    ports: ["8000:8000"]
+    volumes: ["./data:/app/data"]
+    depends_on: [mcp]

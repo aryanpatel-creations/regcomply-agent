@@ -1,0 +1,2 @@
+{"id": "test01", "in_scope": true, "retrieval_ms": 2124, "hit": 1, "recall": 1.0, "rr": 1.0, "refused": false, "correct_refusal": true, "citations_valid": true, "answer_ms": 8040, "in_tokens": 1640, "out_tokens": 56, "supported": false, "answer": "Rupees 20 lakh"}
+{"id": "test02", "in_scope": false, "retrieval_ms": 2080, "refused": true, "correct_refusal": true, "citations_valid": true, "answer_ms": 8179, "in_tokens": 1497, "out_tokens": 61, "answer": "Not specified in the provided context"}

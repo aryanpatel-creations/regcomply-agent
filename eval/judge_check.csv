@@ -1,0 +1,21 @@
+id,answer,judge,my_label
+q012,₹500,1,1
+q072,seven working days,1,1
+q005,30,1,1
+q024,"The bank should notify the customer clearly by SMS / email / letter etc. that in the event of the minimum balance not being restored in the account within a month from the date of notice, penal charges will be applicable.",1,1
+q011,seven working days,1,1
+q061,"No, the cost of providing such Pass Book or Statements should not be charged to the customer.",1,1
+q055,"Yes, banks must configure mechanisms to alert customers when authentication fails, as per Master Direction on Digital Payment Security Controls - Section 35: REs should set down the maximum number of failed log-in or authentication attempts after which access to the digital payment product/service is blocked.",1,1
+q057,No,0,0
+q051,"Yes, REs should implement multi-factor authentication for payments through electronic modes and fund transfers, including cash withdrawals from ATMs/micro-ATMs/business correspondents, through digital payment applications.",1,1
+q017,Yes No,0,0
+q007,"The transaction value or the amount mentioned in Table 1, whichever is lower.",1,1
+q077,The card-issuer is required to close the credit card account without any charges and pay a penalty of twice the value of charges reversed to the cardholder.,1,1
+q002,Rupees 20 lakh,1,0
+q074,"Yes, card-issuers shall be provided option to choose any date as the start of the billing cycle.",1,1
+q054,"The session should be terminated, and the affected transactions should be resolved or reversed out.",1,1
+q001,Rupees 20 lakh,1,1
+q036,"A complaint under the Scheme shall not lie unless: (a) the complainant had, before making a complaint under the Scheme, made a written complaint to the Regulated Entity concerned...",1,1
+q021,Principal Cardholder means the customer who has been issued credit card by a card-issuer and on whose name the card account has been opened.,0,0
+q087,"The provisions of the Ombudsman Scheme, i.e., for loss of complainant’s time, expenses incurred, harassment and mental anguish suffered by him/her.",1,1
+q037,"The per transaction liability of the customer shall be limited to the transaction value or the amount mentioned in Table 1, whichever is lower. Within 3 working days, the customer has zero liability. Beyond 7 working days, the customer liability is as per the bank's Board approved policy.",1,1

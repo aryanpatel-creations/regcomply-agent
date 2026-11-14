@@ -1,0 +1,2 @@
+{"id": "test01", "question": "What is the maximum compensation the Banking Ombudsman can award for consequential loss?", "in_scope": true, "gold_sections": ["RBIOS2021:15"], "reference": "Rs 20 lakh"}
+{"id": "test02", "question": "What is the corporate voting threshold under IBC?", "in_scope": false, "gold_sections": [], "reference": "Out of scope"}

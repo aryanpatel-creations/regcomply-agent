@@ -1,0 +1,35 @@
+{"id": "q001", "in_scope": true, "retrieval_ms": 2143, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q002", "in_scope": true, "retrieval_ms": 2111, "hit": 1, "recall": 1.0, "rr": 0.5}
+{"id": "q003", "in_scope": true, "retrieval_ms": 2104, "hit": 1, "recall": 1.0, "rr": 0.25}
+{"id": "q004", "in_scope": true, "retrieval_ms": 2112, "hit": 1, "recall": 1.0, "rr": 0.25}
+{"id": "q005", "in_scope": true, "retrieval_ms": 2109, "hit": 1, "recall": 1.0, "rr": 0.5}
+{"id": "q006", "in_scope": true, "retrieval_ms": 2118, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q007", "in_scope": true, "retrieval_ms": 2141, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q008", "in_scope": true, "retrieval_ms": 2117, "hit": 1, "recall": 1.0, "rr": 0.3333333333333333}
+{"id": "q009", "in_scope": true, "retrieval_ms": 2109, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q010", "in_scope": true, "retrieval_ms": 2109, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q011", "in_scope": true, "retrieval_ms": 2110, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q012", "in_scope": true, "retrieval_ms": 2123, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q013", "in_scope": true, "retrieval_ms": 2125, "hit": 1, "recall": 1.0, "rr": 0.5}
+{"id": "q014", "in_scope": true, "retrieval_ms": 2113, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q015", "in_scope": true, "retrieval_ms": 2121, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q016", "in_scope": true, "retrieval_ms": 2106, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q017", "in_scope": true, "retrieval_ms": 2110, "hit": 0, "recall": 0.0, "rr": 0.0}
+{"id": "q018", "in_scope": true, "retrieval_ms": 2100, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q019", "in_scope": true, "retrieval_ms": 2104, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q020", "in_scope": true, "retrieval_ms": 2086, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q021", "in_scope": true, "retrieval_ms": 2108, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q022", "in_scope": true, "retrieval_ms": 2078, "hit": 0, "recall": 0.0, "rr": 0.0}
+{"id": "q023", "in_scope": true, "retrieval_ms": 2130, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q024", "in_scope": true, "retrieval_ms": 2103, "hit": 1, "recall": 1.0, "rr": 1.0}
+{"id": "q025", "in_scope": true, "retrieval_ms": 2098, "hit": 0, "recall": 0.0, "rr": 0.0}
+{"id": "q036", "in_scope": true, "retrieval_ms": 2107, "hit": 1, "recall": 1.0, "rr": 0.5}
+{"id": "q037", "in_scope": true, "retrieval_ms": 2108, "hit": 1, "recall": 1.0, "rr": 0.5}
+{"id": "q038", "in_scope": true, "retrieval_ms": 2102, "hit": 1, "recall": 1.0, "rr": 0.5}
+{"id": "q041", "in_scope": false, "retrieval_ms": 2111}
+{"id": "q042", "in_scope": false, "retrieval_ms": 2128}
+{"id": "q043", "in_scope": false, "retrieval_ms": 2106}
+{"id": "q044", "in_scope": false, "retrieval_ms": 2116}
+{"id": "q045", "in_scope": false, "retrieval_ms": 2107}
+{"id": "q046", "in_scope": false, "retrieval_ms": 2115}
+{"id": "q047", "in_scope": false, "retrieval_ms": 2115}

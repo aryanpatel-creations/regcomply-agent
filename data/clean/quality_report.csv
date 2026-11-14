@@ -1,0 +1,3 @@
+stage,rows,duplicate_ids,missing_issue_pct,missing_narrative_pct,products,flag_bad_dates,flag_missing_issue,flag_short_narrative,pii_items_masked,product_groups
+before,23051,5,0.0,65.18,3,,,,,
+after,23046,0,0.0,65.17,3,0.0,0.0,0.0,2999.0,2.0

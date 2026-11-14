@@ -1,0 +1,27 @@
+event_id,timestamp,complaint_id,use_case,model,input_tokens,output_tokens,cost_usd,cost_usd_if_paid,latency_ms,guardrail_flag,escalated_to_human,status,agent_outcome
+988fc7b66b09,2026-11-14T14:22:20,fraud_002,Complaint draft,llama3.2:3b,2445,678,0.0,0.01167,116700,Checklist item not met,Yes,approved_by_supervisor,Pending
+ba3fd8d917aa,2026-11-14T14:23:33,query_003,Complaint draft,llama3.2:3b,2039,369,0.0,0.007768,71113,Checklist item not met,Yes,approved_by_supervisor,Pending
+bfe12e915b73,2026-11-14T14:27:28,fraud_002,Complaint draft,llama3.2:3b,4274,1243,0.0,0.020978,202981,Refund above limit,Yes,approved_by_supervisor,Pending
+48ab2902fbdb,2026-11-14T14:28:50,query_003,Complaint draft,llama3.2:3b,4132,806,0.0,0.016324,150774,Checklist item not met,Yes,approved_by_supervisor,Pending
+2d9a77300b2e,2026-11-14T14:32:50,fee_routine_01,Complaint draft,llama3.2:3b,1885,439,0.0,0.00816,67727,No flag,No,draft_ready_for_agent,Pending
+81e9550b40f9,2026-11-14T14:34:01,fee_001,Complaint draft,llama3.2:3b,1885,459,0.0,0.00836,50396,No flag,No,draft_ready_for_agent,Pending
+afa41ad74868,2026-11-14T14:35:43,fraud_002,Complaint draft,llama3.2:3b,1826,704,0.0,0.010692,99166,Refund above limit,Yes,approved_by_supervisor,Pending
+cef8352554f8,2026-11-14T14:37:01,query_003,Complaint draft,llama3.2:3b,2090,391,0.0,0.00809,76627,Not a complaint,Yes,approved_by_supervisor,Pending
+47c271bf999e,2026-11-14T14:38:45,api_fee_01,Complaint draft,llama3.2:3b,1885,459,0.0,0.00836,52803,No flag,No,draft_ready_for_agent,Pending
+a4bc5e7df4da,2026-11-14T14:39:57,api_fraud_02,Complaint draft,llama3.2:3b,1654,482,0.0,0.008128,69512,Refund above limit,Yes,approved_by_supervisor,Pending
+6d5081607ef4,2026-11-14T14:40:58,fee_001,Complaint draft,llama3.2:3b,3770,918,0.0,0.01672,101125,No flag,No,draft_ready_for_agent,Pending
+80c0df7613e8,2026-11-14T14:42:10,fraud_002,Complaint draft,llama3.2:3b,3652,1319,0.0,0.020494,168963,Refund above limit,Yes,approved_by_supervisor,Pending
+8aa4159387a5,2026-11-14T14:42:52,query_003,Complaint draft,llama3.2:3b,4180,712,0.0,0.01548,116049,Not a complaint,Yes,approved_by_supervisor,Pending
+b8d17601eac4,2026-11-14T14:45:40,fee_001,Complaint draft,llama3.2:3b,5655,1377,0.0,0.02508,150684,No flag,No,draft_ready_for_agent,Pending
+4fa13dc75bc1,2026-11-14T14:46:50,fraud_002,Complaint draft,llama3.2:3b,5478,1934,0.0,0.030296,237252,Refund above limit,Yes,approved_by_supervisor,Pending
+e133277301bf,2026-11-14T14:47:30,query_003,Complaint draft,llama3.2:3b,6270,1033,0.0,0.02287,153907,Not a complaint,Yes,approved_by_supervisor,Pending
+1efd38733731,2026-11-14T14:55:50,demo_fee_01,Complaint draft,llama3.2:3b,2327,499,0.0,0.009644,105761,No flag,No,draft_ready_for_agent,Pending
+db2f1bfc4c3f,2026-11-14T15:08:40,demo_fee_02,Complaint draft,llama3.2:3b,2353,480,0.0,0.009506,59292,No flag,No,draft_ready_for_agent,Pending
+a2e4a2853a37,2026-11-14T15:12:30,demo_fee_02,Complaint draft,llama3.2:3b,4706,960,0.0,0.019012,129272,No flag,No,draft_ready_for_agent,Pending
+ea7cea9cb998,2026-11-14T15:19:09,demo_fraud_02,Complaint draft,llama3.2:3b,1852,545,0.0,0.009154,96892,Refund above limit,Yes,approved_by_supervisor,Pending
+aeba71307fbd,2026-11-14T15:27:48,mcp_test_01,Complaint draft,llama3.2:3b,2496,462,0.0,0.009612,114846,No flag,No,draft_ready_for_agent,Pending
+d0071b51cd1d,2026-11-14T15:29:59,mcp_fraud_01,Complaint draft,llama3.2:3b,2633,466,0.0,0.009926,111398,Refund above limit,Yes,approved_by_supervisor,Pending
+be42dece5c2f,2026-11-14T15:34:18,fraud_002,Complaint draft,llama3.2:3b,7330,2479,0.0,0.03945,333336,Refund above limit,Yes,approved_by_supervisor,Pending
+f701835da758,2026-11-14T15:35:41,query_003,Complaint draft,llama3.2:3b,8386,1397,0.0,0.030742,234690,Not a complaint,Yes,approved_by_supervisor,Pending
+798cb5d60f04,2026-11-14T18:10:00,fraud_002,Complaint draft,llama3.2:3b,9182,3024,0.0,0.048604,483332,Refund above limit,Yes,approved_by_supervisor,Pending
+a54ca91333a1,2026-11-14T18:12:23,query_003,Complaint draft,llama3.2:3b,10502,1761,0.0,0.038614,374793,Not a complaint,Yes,approved_by_supervisor,Pending
