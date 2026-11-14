@@ -3,6 +3,7 @@
 uvicorn api:app --port 8000
 """
 from fastapi import FastAPI, HTTPException
+from fastapi.responses import RedirectResponse
 from pydantic import BaseModel
 from typing import Literal
 from langgraph.types import Command
@@ -38,6 +39,11 @@ class ReviewIn(BaseModel):
 
 def thread(cid: str) -> dict:
     return {"configurable": {"thread_id": cid}}      # one thread per complaint
+
+
+@app.get("/", include_in_schema=False)
+def root():
+    return RedirectResponse(url="/docs")
 
 
 @app.get("/health")
