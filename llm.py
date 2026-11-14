@@ -33,7 +33,8 @@ def _openai_compat_chat(messages, schema, name):
     elif config.JSON_MODE == "object":
         body["response_format"] = {"type": "json_object"}
     for attempt in range(4):                                   # free tiers rate-limit: back off on 429
-        r = requests.post(f"{config.API_BASE_URL}/chat/completions", timeout=120, json=body,
+        base_url = config.API_BASE_URL.rstrip("/")
+        r = requests.post(f"{base_url}/chat/completions", timeout=120, json=body,
                           headers={"Authorization": f"Bearer {config.API_KEY}"})
         if r.status_code != 429:
             break
