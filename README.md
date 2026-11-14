@@ -88,8 +88,8 @@ flowchart TD
 Ensure Python 3.11 is installed, then set up the virtual environment:
 ```powershell
 # Clone the repository
-git clone https://github.com/aryan/regcomply.git
-cd regcomply
+git clone https://github.com/aryanpatel-creations/regcomply-agent.git
+cd regcomply-agent
 
 # Create virtual environment and install pinned dependencies
 python -m venv .venv
@@ -131,6 +131,16 @@ Open **`http://localhost:8000/docs`** to interact with the live Swagger UI.
 ```powershell
 docker compose up --build
 ```
+
+### Option B: 1-Click Cloud Execution (GitHub Codespaces)
+Anyone can launch and test the agent entirely in their browser without installing anything locally:
+1. Click **`Code` $\rightarrow$ `Codespaces` $\rightarrow$ `Create codespace on main`**.
+2. Dependencies install automatically via `.devcontainer/devcontainer.json`.
+3. In the Codespaces terminal, run:
+   ```bash
+   python3 -m uvicorn api:app --host 0.0.0.0 --port 8000
+   ```
+4. A browser popup will open automatically and redirect straight to the interactive **Swagger UI**!
 
 ---
 
