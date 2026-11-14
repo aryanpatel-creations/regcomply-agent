@@ -1,0 +1,13 @@
+{
+  "name": "RegComply Agent",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "forwardPorts": [8000],
+  "portsAttributes": {
+    "8000": {
+      "label": "RegComply Swagger UI",
+      "onAutoForward": "openBrowser",
+      "visibility": "public"
+    }
+  },
+  "postCreateCommand": "pip install -r requirements.txt"
+}
